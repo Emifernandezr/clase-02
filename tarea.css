@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(0, 0, 24, 0.986);
+    color: rgb(185, 201, 245);
+    font-style: italic;
+}
+
+#titulo {
+    text-align: center;
+    font-weight: 1000;
+    font-size: 50px;
+}
+
+.subtitulo {
+    background-color: rgb(185, 201, 245);
+    color: rgba(0, 0, 24, 0.986);
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.parrafo {
+    font-weight: 400;
+    font-size: 15px;
+    text-align: justify;
+    color: rgb(185, 201, 245) s;
+}
+
+.extension {
+    color: rgb(185, 201, 245);
+}
+.extension:visited {
+    color: rgb(185, 201, 245);
+}
